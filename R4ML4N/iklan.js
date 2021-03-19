@@ -19,7 +19,7 @@ const iklan1 = (pushname, prefix, botName, ownerName) => {
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/6285559240360*
+◯ *wa.me/6019770202*
 ──────────────────────────────
 🔰 -----[ *「 POWERED BY ${ownerName} 」* ]----- 🔰
 `
