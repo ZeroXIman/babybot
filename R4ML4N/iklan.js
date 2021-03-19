@@ -2,10 +2,10 @@ const iklan1 = (pushname, prefix, botName, ownerName) => {
 	return `🔰 -----[ *「 IKLAN ${botName} 」* ]----- 🔰
 ──────────────────────────────
 ◯ *DAFTAR SEWA & BUAT BOT :*
-◯ *SEWA : 25K/GRUP (BULAN)*
-◯ *BUAT : 100K (BISA JADI OWNER)*
+◯ *SEWA : RM 5/GRUP (BULAN)*
+◯ *BUAT : RM 10 (BISA JADI OWNER)*
 ◯ *PEMBAYARAN BISA MELALUI :*
-◯ *OVO, GOPAY, DANA, PULSA+10K*
+◯ *CELCOM , DIGI*
 ──────────────────────────────
 ◯ *KEUNTUNGAN SEWA BOT :*
 ◯ *1. BISA MEMASUKAN BOT KE GROUP*
@@ -19,7 +19,7 @@ const iklan1 = (pushname, prefix, botName, ownerName) => {
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/6285559240360*
+◯ *wa.me/60196703551*
 ──────────────────────────────
 🔰 -----[ *「 POWERED BY ${ownerName} 」* ]----- 🔰
 `
